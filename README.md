@@ -1,3 +1,5 @@
+```
+
 /* Global styles */
 * {
     margin: 0;
@@ -223,4 +225,5 @@ footer {
     }
 }
 
+```
 
